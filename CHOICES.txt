@@ -8,3 +8,4 @@ Fifth Choice: __Approach Billy__
 Sixth Choice: __Talk to Billy directly__
 Seventh Choice: __Approach Danny__
 Accusation1: __Accuse Helga__
+Accusation 2: __Accuse billy__
