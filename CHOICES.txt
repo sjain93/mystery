@@ -7,3 +7,4 @@ Fourth Choice: __Listen in on what they're saying__
 Fifth Choice: __Approach Billy__
 Sixth Choice: __Talk to Billy directly__
 Seventh Choice: __Approach Danny__
+Eigth Choice: __Accuse Danny__
