@@ -5,4 +5,5 @@ Second Choice: __Get to work helping. Take a look around the room....__
 Third Choice: __Approach Helga and the Doctor__
 Fourth Choice: __Listen in on what they're saying__
 Fifth Choice: __Approach Billy__
-sixth Choice: __Talk to Billy directly__
+Sixth Choice: __Talk to Billy directly__
+Seventh Choice: __Approach Danny__
